@@ -5,7 +5,7 @@ Embed Codepen in Gatsby markdown
 ## Install
 
 ```bash
-npm install --save @weknow/gatsby-remark-codepen
+npm install --save gatsby-remark-codepen
 ```
 
 ## How to use
@@ -18,7 +18,7 @@ plugins: [
     options: {
       plugins: [
         {
-          resolve:"@weknow/gatsby-remark-codepen",
+          resolve:"gatsby-remark-codepen",
           options: {
             theme: "dark",
             height: 400

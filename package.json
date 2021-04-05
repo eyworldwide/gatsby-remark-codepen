@@ -1,9 +1,9 @@
 {
-  "name": "@weknow/gatsby-remark-codepen",
-  "version": "0.1.0",
+  "name": "gatsby-remark-codepen",
+  "version": "0.1.1",
   "description": "Embed Codepen pen in Gatsby markdown",
   "main": "index.js",
-  "author": "Jairo Rondon <jrondon@anexusit.com>",
+  "author": "Bob <eyworldwide@foxmail.com>",
   "license": "MIT",
   "keywords": ["gatsby", "gatsby-plugin", "remark", "markdown", "codepen"],
   "dependencies": {
@@ -15,9 +15,9 @@
     "cross-env": "^5.0.5",
     "unist-util-map": "^1.0.3"
   },
-  "homepage": "https://github.com/weknowinc/gatsby-remark-codepen#readme",
+  "homepage": "https://github.com/eyworldwide/gatsby-remark-codepen",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/weknowinc/gatsby-remark-codepen.git"
+    "url": "git+https://github.com/eyworldwide/gatsby-remark-codepen.git"
   }
 }
